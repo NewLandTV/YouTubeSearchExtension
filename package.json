@@ -2,6 +2,7 @@
   "name": "youtube-search",
   "displayName": "YoutubeSearch",
   "description": "Search YouTube",
+  "publisher": "JkhTV",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.78.0"
