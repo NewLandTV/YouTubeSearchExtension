@@ -1,4 +1,4 @@
-# **YouTube Search
+# **YouTube Search**
 This is the README for the "Search YouTube" extension. A brief description is as follows.
 
 ## **Features**
