@@ -23,6 +23,6 @@ Display YouTube search result links via search.
 
 ## **For more information**
 
-* [JkhTV YouTube Channel](https://www.youtube.com/@NewLand2019-JkhTV)
+* [JkhTV YouTube Channel](https://www.youtube.com/@장경혁tv)
 * [NewLand Discord](https://discord.gg/2J646MaZGA)
 * [NewLand Cafe](https://cafe.naver.com/2019newland)
